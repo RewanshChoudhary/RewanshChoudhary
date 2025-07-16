@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **Spring framework**
+- 🌱 I’m currently learning **Spring framework** and working with Linux (fedora) 
 
 - 📫 How to reach me **rewanshchoudhary57@gmail.com**
 
